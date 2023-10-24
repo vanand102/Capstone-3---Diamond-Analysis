@@ -7,18 +7,33 @@ The purchase of diamonds is culturally significant in today’s society. They ar
 ===============================
 
 Project Organization
+
 ├── README.md <- The top-level README for developers using this project.
+
 ├── data
+
 │   ├── diamonds.csv <---- Original data obtained from Kaggle
+
 │   ├── diamond_data.csv
+
 │   ├── diamond_data_1.csv
+
 │   └── diamond_data_2.csv
+
 │
+
 ├── notebooks <- Jupyter notebooks. Naming convention is a number (for ordering),
+
 │ ├── 1.0-Capstone3_DataWrangling.ipynb
+
 │ ├── 2.0-Capstone3_EDA.ipynb
+
 │ └── 3.0-Capstone3_Modeling.ipynb
+
 │
+
 ├── reports <- Analysis and reports
+
 │ ├── Final Capstone_Report.docx
+
 │ └── Final Capstone Presentation.pptx
